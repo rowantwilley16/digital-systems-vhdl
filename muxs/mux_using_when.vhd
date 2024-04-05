@@ -2,7 +2,6 @@
 -- Design Name : mux_using_when
 -- File Name   : mux_using_assign.v
 -- Function    : 2:1 Mux using when
--- Coder       : Deepak Kumar Tala
 -------------------------------------------------------
 library ieee;
     use ieee.std_logic_1164.all;

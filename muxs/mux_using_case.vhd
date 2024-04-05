@@ -2,8 +2,6 @@
 -- Design Name : mux_using_case
 -- File Name   : mux_using_case.vhd
 -- Function    : 2:1 Mux using Case
--- Coder       : Deepak Kumar Tala (Verilog)
--- Translator  : Alexander H Pham (VHDL)
 -------------------------------------------------------
 library ieee;
     use ieee.std_logic_1164.all;
